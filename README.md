@@ -1,3 +1,8 @@
 ### Bonjour, je suis Olivier 👋
 
-I'm a PhD student in Statistical Science at Duke University.
+[**olivierbinette.github.io**](olivierbinette.github.io)
+
+![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierbinette)
+
+
+
