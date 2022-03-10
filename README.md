@@ -1,4 +1,4 @@
-### Bonjour, je suis Olivier 👋
+### Hi, I'm Olivier 👋
 
 I'm a PhD Candidate at Duke University, Statistical Science Department.
 
