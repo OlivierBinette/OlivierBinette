@@ -1,8 +1,8 @@
 ### Hi, I'm Olivier 👋
 
-I'm a PhD Candidate at Duke University, Statistical Science Department.
+I'm a scientist, statistician, and software developer.
 
-- [**Personal website**](https://olivierbinette.github.io)
+- [**Homepage**](https://olivierbinette.github.io)
 - [**LinkedIn**](https://www.linkedin.com/in/olivier-binette/)
 - [**Google Scholar**](https://scholar.google.com/citations?user=c1jTnkUAAAAJ&hl=en)
 
