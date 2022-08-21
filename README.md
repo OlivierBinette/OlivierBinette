@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **Statistics PhD at Duke University**
 
-- 👯 I’m looking to collaborate on **Machine Learning Systems Evaluation** and [open-source **entity resolution software**](https://github.com/olivierBinette/stringcompare).
+- 👯 I’m looking to collaborate on **ML Systems Evaluation** and [**entity resolution software**](https://github.com/olivierBinette/stringcompare).
 
 - 👨‍💻 All of my projects are available at [**olivierbinette.ca**](olivierbinette.ca)
 
@@ -32,5 +32,5 @@
 <h3 align="left">Statistics:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette&show_icons=true&locale=en" alt="olivierbinette" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide=html,JavaScript,TeX,CSS,Java" alt="olivierbinette" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide=html,JavaScript,TeX,CSS,Java,SCSS" alt="olivierbinette" /></p>
 
