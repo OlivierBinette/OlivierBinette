@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **Statistics PhD at Duke University**
 
-- 👯 I’m looking to collaborate on **ML Systems Evaluation** and [**entity resolution software**](https://github.com/olivierBinette/stringcompare).
+- 👯 I’m looking to collaborate on **ML systems evaluation** and [**entity resolution software**](https://github.com/olivierBinette/stringcompare).
 
 - 👨‍💻 All of my projects are available at [**olivierbinette.ca**](olivierbinette.ca)
 
