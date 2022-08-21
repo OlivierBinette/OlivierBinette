@@ -32,5 +32,5 @@
 <h3 align="left">Statistics:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette&show_icons=true&locale=en" alt="olivierbinette" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide=html,JavaScript,TeX,CSS,Java,SCSS" alt="olivierbinette" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide_rank=true&count_private=true&hide=html,JavaScript,TeX,CSS,Java,SCSS" alt="olivierbinette" /></p>
 
