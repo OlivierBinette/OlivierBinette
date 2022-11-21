@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning systems evaluation** and [**entity resolution software**](https://github.com/olivierBinette/stringcompare)
 
-- 📜 Find my papers on [**Google Scholar**](https://scholar.google.com/citations?user=c1jTnkUAAAAJ&hl=en)
+- 📜 Find my published research on [**Google Scholar**](https://scholar.google.com/citations?user=c1jTnkUAAAAJ&hl=en)
 
 - 👨‍💻 All of my projects are available at [**olivierbinette.ca**](olivierbinette.ca)
 
