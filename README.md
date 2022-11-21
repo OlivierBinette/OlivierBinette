@@ -36,7 +36,7 @@
 <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a>
 -->
 
-### Projects
+### Code Projects
 
 #### Entity Resolution
 | Name  | Frameworks | Description |
