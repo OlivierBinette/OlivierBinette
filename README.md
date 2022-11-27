@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [**olivierbinette.ca**](olivierbinette.ca)
 
+- 📑 Find my resume [**here**](https://github.com/OlivierBinette/OlivierBinette/raw/main/Resume_Olivier_Binette.pdf)
+
 - 🌐 Connect on [**LinkedIn**](https://www.linkedin.com/in/olivier-binette/)
 
 - 📫 Reach me at **olivier (at) olivierbinette.ca**
