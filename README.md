@@ -65,8 +65,9 @@
 | **[Earthquakes](https://github.com/OlivierBinette/earthquakes)**| <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a> | 3D data visualization with WebGL/three.js|
  | [**Fractals**](https://github.com/OlivierBinette/Fractals)| <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a> | Javascript Mandelbrot set explorer|
 
-
+<!--
 </p>
 <h3 align="left">Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide_rank=true&count_private=true&hide=html,JavaScript,TeX,CSS,Java,SCSS" alt="olivierbinette" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette&show_icons=true&locale=en" alt="olivierbinette" /></p>
+-->
