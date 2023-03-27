@@ -40,6 +40,12 @@
 
 ### Programming Projects
 
+#### ML Evaluation
+| Name  | Frameworks | Description |
+| ------------- | ------------- | ------------- |
+| [**Streamlit-Survey**](https://github.com/Valires/Streamlit-Survey)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <a href="https://www.streamlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/> </a>   |    Survey components for Streamlit apps   |
+
+
 #### Entity Resolution
 | Name  | Frameworks | Description |
 | ------------- | ------------- | ------------- |
