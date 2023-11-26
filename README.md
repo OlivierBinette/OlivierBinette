@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **Statistics PhD at Duke University**
 
-- 👯 I’m looking to collaborate on **machine learning systems evaluation** and [**entity resolution software**](https://github.com/olivierBinette/stringcompare)
+- 👯 I’m looking to collaborate on **AI/ML test and evaluation,** and **entity resolution software**.
 
 - 📜 Find my published research on [**Google Scholar**](https://scholar.google.com/citations?user=c1jTnkUAAAAJ&hl=en)
 
@@ -43,13 +43,14 @@
 | ------------- | ------------- | ------------- |
 | [**Streamlit-Survey**](https://github.com/Valires/Streamlit-Survey)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <a href="https://www.streamlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/> </a>   |    Survey components for Streamlit apps   |
 | [**ER-Evaluation**](https://github.com/OlivierBinette/ER-Evaluation)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   |   An End-to-End Evaluation Framework for Entity Resolution Systems  |
+| [**PatentsView-Evaluation**](https://github.com/PatentsView/PatentsView-Evaluation/)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   |  Evaluation and benchmarking of PatentsView disambiguation algorithms |
 
 
-#### Entity Resolution
+#### Python Packages
 | Name  | Frameworks | Description |
 | ------------- | ------------- | ------------- |
-| [**PatentsView-Evaluation**](https://github.com/PatentsView/PatentsView-Evaluation/)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   |  Evaluation and benchmarking of PatentsView disambiguation algorithms |
 | [**StringCompare**](https://github.com/olivierBinette/stringcompare)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a>  |  Efficient String Comparison Functions and Fuzzy String Matching   |
+| [**CSVMeta**](https://github.com/OlivierBinette/CSVMeta) | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |  Lightweight csv read/write, keeping track of csv dialect and other metadata. |
 
 #### R Packages
 | Name  | Frameworks | Description |
