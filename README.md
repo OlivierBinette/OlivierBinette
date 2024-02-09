@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">I'm a scientist, statistician, and software developer.</h3>
+<h3 align="center">I'm a data scientist, statistician, and software developer.</h3>
 <h5 align="center"><a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public"><img align="center" href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge"></a><span> </span><a href="https://github.com/sponsors/olivierbinette"><img align="center" href="https://github.com/sponsors/olivierbinette" src="https://img.shields.io/badge/❤️-Sponsor%20me-ff69b4?style=for-the-badge"> </a></h5>
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on my **Statistics PhD at Duke University**
+- 🔭 I’m currently a **data science consultant** and **statistics PhD Candidate** at Duke University.
 
 - 👯 I’m looking to collaborate on **AI/ML test and evaluation,** and **entity resolution software**.
 
