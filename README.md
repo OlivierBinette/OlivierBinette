@@ -1,77 +1,78 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">I'm a data scientist, statistician, and software developer.</h3>
-<h5 align="center"><a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public"><img align="center" href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge"></a><span> </span><a href="https://github.com/sponsors/olivierbinette"><img align="center" href="https://github.com/sponsors/olivierbinette" src="https://img.shields.io/badge/❤️-Sponsor%20me-ff69b4?style=for-the-badge"> </a></h5>
 
-<h3 align="left">About me:</h3>
+<h3 align="center">I'm a PhD statistician, data scientist, and engineering enthusiast.</h3>
 
-- 🔭 I’m currently a **data science consultant** and **statistics PhD Candidate** at Duke University.
+<h5 align="center">
+  <a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
+    <img align="center" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge">
+  </a> 
+  <a href="https://www.linkedin.com/in/olivier-binette/">
+      <img align="center" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+  <a href="https://scholar.google.com/citations?user=c1jTnkUAAAAJ">
+      <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"> 
+  </a>
+  <a href="https://olivierbinette.ca/">
+      <img align="center" src="https://img.shields.io/badge/%F0%9F%93%A7-Let's%20chat!-orange?style=for-the-badge"> 
+  </a>
+</h5>
 
-- 👯 I’m looking to collaborate on **AI/ML test and evaluation,** and **entity resolution software**.
+## 🧑‍💻 A few things I've built that I quite like
 
-- 📜 Find my published research on [**Google Scholar**](https://scholar.google.com/citations?user=c1jTnkUAAAAJ&hl=en)
+- **[ER-Evaluation](https://github.com/Valires/er-evaluation) (Python package on PyPI):**
+    Toolkit for the (statistical) evaluation of entity resolution, record linkage, and micro-clustering models.
+  
+- **[StreamlitSurvey](https://github.com/olivierbinette/streamlit-survey/) (Python package on PyPI):**
+    Streamlit apps can be a bit tricky to get right. Especially if you want multi-pages forms/surveys that keep track of progress and that can be restored from a saved state. 
 
-- 👨‍💻 Personal website: [**olivierbinette.ca**](https://olivierbinette.ca/)
+- **[StringCompare](https://github.com/OlivierBinette/StringCompare) (Python/C++ package):**
+    Most implementations of the Levenshtein distance are *terrible.* [Here](https://github.com/OlivierBinette/StringCompare/blob/c59f13b4f5ba6552ff77be169cea99b584a89bbc/stringcompare/distance/levenshtein.hpp#L29C1-L50C4)'s how the basic algorithm can be implemented with minimal time and memory complexity.
 
-- 🌐 Connect on [**LinkedIn**](https://www.linkedin.com/in/olivier-binette/)
+- **[CSVMeta](github.com/olivierBinette/CSVMeta) (Python package on PyPI):**
+    You know how excel has been repeatedly blamed for high-profile disasters? Well CSV files are no better. If you're going to use CSV files, you need to specify your CSV dialect in a metadata file. This package reads/write CSV files with attached dialect information.
 
-- 📫 Reach me at **olivier (at) olivierbinette.ca**
+- **[assert](https://github.com/olivierBinette/assert) (R package on CRAN):**
+    Informative assertions in 16 lines of code with some R introspection magic (no dependencies!)
 
+- **[cache](https://github.com/olivierBinette/cache) (R package on CRAN):**
+    On-disk caching for data science workflows in 15 lines of code (no dependencies!)
 
-<!--
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> 
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://www.elastic.co/"> <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-elasticsearch-logo.png" width="40" alt="elasticsearch"/> </a>
-<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a>
-<a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a>
--->
+- **[dgaFast/dga](https://github.com/olivierBinette/dgaFast) (R package on CRAN):**
+    I needed the *dga* R package (that I know maintain) to go *fast*. I re-implemented bottlenecks in C++ and did some linear algebra magic for a 100x speedup.
 
-### Programming Projects
+- **[Fractals](https://github.com/OlivierBinette/Fractals) (Javascript App):**
+    More than 10 years ago, I deep dived into browser multithreading to create a Javascript Mendelbrot set visualization app.
 
-#### ML Evaluation
-| Name  | Frameworks | Description |
-| ------------- | ------------- | ------------- |
-| [**Streamlit-Survey**](https://github.com/Valires/Streamlit-Survey)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <a href="https://www.streamlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/> </a>   |    Survey components for Streamlit apps   |
-| [**ER-Evaluation**](https://github.com/OlivierBinette/ER-Evaluation)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   |   An End-to-End Evaluation Framework for Entity Resolution Systems  |
-| [**PatentsView-Evaluation**](https://github.com/PatentsView/PatentsView-Evaluation/)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   |  Evaluation and benchmarking of PatentsView disambiguation algorithms |
+- **[Welcome to the Moon App](https://github.com/OlivierBinette/welcome-to-the-moon-card-flipper) (Javascript App):**
+    I love board games! I created this app as a companion to the wonderful *Welcome to the Moon* board game.
+
+- **[FingermatchR](https://github.com/OlivierBinette/fingermatchR) (R & C package):**
+    Ever needed an R wrapper to fingerprint matching C libraries? No? Well, a Duke postdoc did and sweet-talked me into building this... It may not be the most useful thing, but it was fun!
 
 
-#### Python Packages
-| Name  | Frameworks | Description |
-| ------------- | ------------- | ------------- |
-| [**StringCompare**](https://github.com/olivierBinette/stringcompare)  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a>  |  Efficient String Comparison Functions and Fuzzy String Matching   |
-| [**CSVMeta**](https://github.com/OlivierBinette/CSVMeta) | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |  Lightweight csv read/write, keeping track of csv dialect and other metadata. |
+## 🧰 Some tools I use
 
-#### R Packages
-| Name  | Frameworks | Description |
-| ------------- | ------------- | ------------- |
-| [**TessTools**](https://github.com/OlivierBinette/TessTools) |  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  |  Tools for the use of Tesseract OCR in R |
-| [**dgaFast**](https://github.com/olivierBinette/dgaFast) | <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> | Multiple Systems Estimation Using Decomposable Graphical Models. This is an efficient re-implementation and extension of the dga R package |
-| [**assert**](https://github.com/OlivierBinette/assert) |  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> |  Lightweight validation tool for checking function arguments and data analysis scripts. |
-| [**cache**](https://github.com/OlivierBinette/cache) |<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a>|  Easily cache and retrieve computation results in R |
-| [**FingerMatchR**](https://github.com/OlivierBinette/fingermatchR) | <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> |  Fingerprint matching tools based on NIST's mindtct and bozorth3 algorithms |
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![DuckDB](https://img.shields.io/badge/DuckDB-FDF250?style=flat-square&logo=duckdb&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![vscode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### For Fun
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![statsmodels](https://img.shields.io/badge/-statsmodels-blue.svg?style=flat-square&logoColor=white)
 
-| Name  | Frameworks | Description |
-| ------------- | ------------- | ------------- |
-| [**"Welcome To The Moon" Companion**](https://github.com/OlivierBinette/welcome-to-the-moon-card-flipper) | <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a> | Card flipping app for the [Welcome To The Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon) board game |
-| **[Earthquakes](https://github.com/OlivierBinette/earthquakes)**| <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a> | 3D data visualization with WebGL/three.js|
- | [**Fractals**](https://github.com/OlivierBinette/Fractals)| <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="javascript"/> </a> <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="html-css"/> </a> | Javascript Mandelbrot set explorer|
-
-<!--
-</p>
-<h3 align="left">Statistics:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivierbinette&show_icons=true&locale=en&layout=compact&hide_rank=true&count_private=true&hide=html,JavaScript,TeX,CSS,Java,SCSS" alt="olivierbinette" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette&show_icons=true&locale=en" alt="olivierbinette" /></p>
--->
