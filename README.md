@@ -18,12 +18,11 @@
 </h5>
 
 ## 🤓 Some stats
-
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
-</a>
-<a>
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OlivierBinette&rank_icon=percentile&include_all_commits=true&show_icons=true" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
 </a>
 
 ## 🧑‍💻 Some of the software I've built that I quite like
@@ -87,4 +86,6 @@
 
 ![Pytest](https://img.shields.io/badge/pytest-lightgreen.svg?style=flat-square&logo=pytest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/dependabot-blue.svg?style=flat-square&logo=dependabot&logoColor=white)
+
+
 
