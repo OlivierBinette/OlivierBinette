@@ -17,19 +17,28 @@
   </a>
 </h5>
 
-## 🧑‍💻 A few things I've built that I quite like
+## 🤓 Some stats
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OlivierBinette&rank_icon=percentile&include_all_commits=true&show_icons=true" />
+</a>
+
+## 🧑‍💻 Some of the software I've built that I quite like
 
 - **[ER-Evaluation](https://github.com/Valires/er-evaluation) (Python package on PyPI):**
     Toolkit for the (statistical) evaluation of entity resolution, record linkage, and micro-clustering models.
   
 - **[StreamlitSurvey](https://github.com/olivierbinette/streamlit-survey/) (Python package on PyPI):**
-    Streamlit apps can be a bit tricky to get right. Especially if you want multi-pages forms/surveys that keep track of progress and that can be restored from a saved state. 
+    Streamlit apps can be a bit tricky to get right. Especially if you want multi-pages forms/surveys that keep track of progress and that can be restored from a saved state. This Streamlit component makes it easy to incorporate more complex forms on in your apps.
 
 - **[StringCompare](https://github.com/OlivierBinette/StringCompare) (Python/C++ package):**
-    Most implementations of the Levenshtein distance are *terrible.* [Here](https://github.com/OlivierBinette/StringCompare/blob/c59f13b4f5ba6552ff77be169cea99b584a89bbc/stringcompare/distance/levenshtein.hpp#L29C1-L50C4)'s how the basic algorithm can be implemented with minimal time and memory complexity.
+    Most implementations of the Levenshtein distance are *pretty bad.* [Here](https://github.com/OlivierBinette/StringCompare/blob/c59f13b4f5ba6552ff77be169cea99b584a89bbc/stringcompare/distance/levenshtein.hpp#L29C1-L50C4)'s how the basic algorithm can be implemented with minimal time and memory complexity.
 
 - **[CSVMeta](github.com/olivierBinette/CSVMeta) (Python package on PyPI):**
-    You know how excel has been repeatedly blamed for high-profile disasters? Well CSV files are no better. If you're going to use CSV files, you need to specify your CSV dialect in a metadata file. This package reads/write CSV files with attached dialect information.
+    You know how excel has been repeatedly blamed for high-profile disasters? Well, CSV files are part of the problem. If you're going to use CSV files, you need to specify your CSV dialect in a metadata file. This package reads/write CSV files with attached dialect information.
 
 - **[assert](https://github.com/olivierBinette/assert) (R package on CRAN):**
     Informative assertions in 16 lines of code with some R introspection magic (no dependencies!)
@@ -47,7 +56,7 @@
     I love board games! I created this app as a companion to the wonderful *Welcome to the Moon* board game.
 
 - **[FingermatchR](https://github.com/OlivierBinette/fingermatchR) (R & C package):**
-    Ever needed an R wrapper to fingerprint matching C libraries? No? Well, a Duke postdoc did and sweet-talked me into building this... It may not be the most useful thing, but it was fun!
+    Ever needed an R wrapper to fingerprint matching C libraries? No? Well, a Duke postdoc did and sweet-talked me into building this... It may not be the most useful thing, but it was interesting!
 
 
 ## 🧰 Some tools I use
@@ -75,4 +84,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/-statsmodels-blue.svg?style=flat-square&logoColor=white)
+
+![Pytest](https://img.shields.io/badge/pytest-lightgreen.svg?style=flat-square&logo=pytest&logoColor=white)
+![Pytest](https://img.shields.io/badge/dependabot-blue.svg?style=flat-square&logo=dependabot&logoColor=white)
 
