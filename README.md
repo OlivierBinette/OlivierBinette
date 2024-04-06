@@ -25,7 +25,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
 </a>
 
-## 🧑‍💻 Some of the software I've built that I quite like
+## 🧑‍💻 Some of the software I've worked on
 
 - **[ER-Evaluation](https://github.com/Valires/er-evaluation) (Python package on PyPI):**
     Toolkit for the (statistical) evaluation of entity resolution, record linkage, and micro-clustering models.
