@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 
-<h3 align="center">I'm a PhD statistician, data scientist, and engineering enthusiast.</h3>
+<h3 align="center">I'm a data scientist with a Statistical Science PhD from Duke University.</h3>
 
 <h5 align="center">
   <a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
