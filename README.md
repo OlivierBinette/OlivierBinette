@@ -29,36 +29,38 @@
 
 ## 🧑‍💻 Some of the software I've worked on
 
-- **[ER-Evaluation](https://github.com/Valires/er-evaluation) (Python package on PyPI):**
-    Toolkit for the (statistical) evaluation of entity resolution, record linkage, and micro-clustering models.
-  
-- **[StreamlitSurvey](https://github.com/olivierbinette/streamlit-survey/) (Python package on PyPI):**
-    Streamlit apps can be a bit tricky to get right. Especially if you want multi-pages forms/surveys that keep track of progress and that can be restored from a saved state. This Streamlit component makes it easy to incorporate more complex forms on in your apps.
+### Python Packages
 
-- **[StringCompare](https://github.com/OlivierBinette/StringCompare) (Python/C++ package):**
-    Most implementations of the Levenshtein distance are *pretty bad.* [Here](https://github.com/OlivierBinette/StringCompare/blob/c59f13b4f5ba6552ff77be169cea99b584a89bbc/stringcompare/distance/levenshtein.hpp#L29C1-L50C4)'s how the basic algorithm can be implemented with minimal time and memory complexity.
+| Project | Description | Role |
+|----|-------------|---|
+|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Lead |
+| [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package (3.7k+ stars on Github). |  Core Contributor |
+| [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator |
+| [CSVMeta](https://github.com/OlivierBinette/CSVMeta)  | Lightweight csv read/write, keeping track of csv dialect and other metadata.  | Creator |
+| [ER-Evaluation](https://github.com/Valires/er-evaluation)  | End-to-end evaluation of entity resolution systems.  | Creator |
+| [StringCompare](https://github.com/olivierbinette/StringCompare) | Efficient string similarity using C++ and PyBind11. | Creator  |
 
-- **[CSVMeta](github.com/olivierBinette/CSVMeta) (Python package on PyPI):**
-    You know how excel has been repeatedly blamed for high-profile disasters? Well, CSV files are part of the problem. If you're going to use CSV files, you need to specify your CSV dialect in a metadata file. This package reads/write CSV files with attached dialect information.
 
-- **[assert](https://github.com/olivierBinette/assert) (R package on CRAN):**
-    Informative assertions in 16 lines of code with some R introspection magic (no dependencies!)
+### R Packages
 
-- **[cache](https://github.com/olivierBinette/cache) (R package on CRAN):**
-    On-disk caching for data science workflows in 15 lines of code (no dependencies!)
+| Project | Description | Role |
+|----|-------------|---|
+| [MSETools](https://github.com/OlivierBinette/MSETools) | Code and analyses for the paper titled “On the Reliability of Multiple Systems Estimation for the Quantification of Modern Slavery” (Binette and Steorts, 2021). | Creator |
+| [FingermatchR](https://github.com/forensic-science/fingermatchR) | Fingerprint matching tools based on NIST's Biometric Image Software, on FingerJet minutiae extraction tool, and on the libfmr library. | Creator |
+| [cache](https://github.com/OlivierBinette/cache) | Lightweight caching for data science workflows.| Creator |
+| [assert](https://github.com/OlivierBinette/assert) | Lightweight assertions for data science workflows. | Creator |
+| [dgaFast/dga](https://github.com/olivierBinette/dgaFast) | Multiple Systems Estimation Using Decomposable Graphical Models. | Maintainer |
+| [TessTools](https://github.com/OlivierBinette/TessTools) | Tools for the use of Tesseract OCR in R and for the analysis of historical newspaper archives. | Creator |
 
-- **[dgaFast/dga](https://github.com/olivierBinette/dgaFast) (R package on CRAN):**
-    I needed the *dga* R package (that I know maintain) to go *fast*. I re-implemented bottlenecks in C++ and did some linear algebra magic for a 100x speedup.
 
-- **[Fractals](https://github.com/OlivierBinette/Fractals) (Javascript App):**
-    More than 10 years ago, I deep dived into browser multithreading to create a Javascript Mendelbrot set visualization app.
+### Other Software
 
-- **[Welcome to the Moon App](https://github.com/OlivierBinette/welcome-to-the-moon-card-flipper) (Javascript App):**
-    I love board games! I created this app as a companion to the wonderful *Welcome to the Moon* board game.
-
-- **[FingermatchR](https://github.com/OlivierBinette/fingermatchR) (R & C package):**
-    Ever needed an R wrapper to fingerprint matching C libraries? No? Well, a Duke postdoc did and sweet-talked me into building this... It may not be the most useful thing, but it was interesting!
-
+| Project | Description | Role |
+|----|-------------|---|
+| [Fractals](https://olivierbinette.github.io/Fractals/) | A Javascript Mendelbrot set visualization app, built using early browser multithreading technologies (2014). | Creator |
+| [Welcome to the Moon App](https://github.com/OlivierBinette/welcome-to-the-moon-card-flipper) | Companion app to the wonderful *Welcome to the Moon* board game. | Creator |
+| [Earthquakes](https://olivierbinette.github.io/earthquakes/) | Visualize earthquakes on the globe. | Creator |
+| [lipsample](https://github.com/OlivierBinette/lipsample) | Sampling from arbitrary Lipschitz continuous densities on the interval in Matlab | Creator |
 
 ## 🧰 Some tools I use
 
@@ -87,7 +89,6 @@
 ![statsmodels](https://img.shields.io/badge/-statsmodels-blue.svg?style=flat-square&logoColor=white)
 
 ![Pytest](https://img.shields.io/badge/pytest-lightgreen.svg?style=flat-square&logo=pytest&logoColor=white)
-![Pytest](https://img.shields.io/badge/dependabot-blue.svg?style=flat-square&logo=dependabot&logoColor=white)
 
 
 
