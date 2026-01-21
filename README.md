@@ -80,6 +80,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
+![conda](https://img.shields.io/badge/Pixi-1E2F4A.svg?&style=flat-square&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![vscode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -91,6 +92,6 @@
 ![statsmodels](https://img.shields.io/badge/-statsmodels-blue.svg?style=flat-square&logoColor=white)
 
 ![Pytest](https://img.shields.io/badge/pytest-lightgreen.svg?style=flat-square&logo=pytest&logoColor=white)
-
+![Pytest](https://img.shields.io/badge/Inspect_AI-lightblue.svg?style=flat-square&logo=python&logoColor=white)
 
 
