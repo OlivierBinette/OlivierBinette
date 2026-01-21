@@ -35,7 +35,7 @@
 
 | Project | Description | Role | ⭐ |
 |----|-------------|---|---|
-|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Contributor | ![stars](https://img.shields.io/github/stars/PatentsView/PatentsView-Code-Examples) |
+|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Core Contributor | ![stars](https://img.shields.io/github/stars/PatentsView/PatentsView-Code-Examples) |
 | [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package. |  Contributor | ![stars](https://img.shields.io/github/stars/deepchecks/deepchecks) |
 | [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator | ![stars](https://img.shields.io/github/stars/Valires/streamlit-survey) |
 | [CSVMeta](https://github.com/OlivierBinette/CSVMeta)  | Lightweight csv read/write, keeping track of csv dialect and other metadata.  | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/CSVMeta) |
