@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 
-<h3 align="center">Data Scientist at American Institutes for Research</h3>
-<h3 align="center">PhD in Statistical Science from Duke University</h3>
+<h3 align="center">PhD, Statistical Science, Duke University</h3>
+
+<h4 align="center">Currently ML Research Scientist at Upstart</h4>
+<h4 align="center">Previously Data Scientist at American Institutes for Research</h4>
 
 
 <h5 align="center">
@@ -33,8 +35,8 @@
 
 | Project | Description | Role |
 |----|-------------|---|
-|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Lead |
-| [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package (3.7k+ stars on Github). |  Core Contributor |
+|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Contributor |
+| [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package. |  Contributor |
 | [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator |
 | [CSVMeta](https://github.com/OlivierBinette/CSVMeta)  | Lightweight csv read/write, keeping track of csv dialect and other metadata.  | Creator |
 | [ER-Evaluation](https://github.com/Valires/er-evaluation)  | End-to-end evaluation of entity resolution systems.  | Creator |
