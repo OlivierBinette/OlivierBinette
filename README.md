@@ -33,26 +33,26 @@
 
 ### Python Packages
 
-| Project | Description | Role |
-|----|-------------|---|
-|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Contributor |
-| [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package. |  Contributor |
-| [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator |
-| [CSVMeta](https://github.com/OlivierBinette/CSVMeta)  | Lightweight csv read/write, keeping track of csv dialect and other metadata.  | Creator |
-| [ER-Evaluation](https://github.com/Valires/er-evaluation)  | End-to-end evaluation of entity resolution systems.  | Creator |
-| [StringCompare](https://github.com/olivierbinette/StringCompare) | Efficient string similarity using C++ and PyBind11. | Creator  |
+| Project | Description | Role | ⭐ |
+|----|-------------|---|---|
+|[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Contributor | ![stars](https://img.shields.io/github/stars/PatentsView/PatentsView-Code-Examples) |
+| [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package. |  Contributor | ![stars](https://img.shields.io/github/stars/deepchecks/deepchecks) |
+| [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator | ![stars](https://img.shields.io/github/stars/Valires/streamlit-survey) |
+| [CSVMeta](https://github.com/OlivierBinette/CSVMeta)  | Lightweight csv read/write, keeping track of csv dialect and other metadata.  | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/CSVMeta) |
+| [ER-Evaluation](https://github.com/Valires/er-evaluation)  | End-to-end evaluation of entity resolution systems.  | Creator | ![stars](https://img.shields.io/github/stars/Valires/er-evaluation) |
+| [StringCompare](https://github.com/olivierbinette/StringCompare) | Efficient string similarity using C++ and PyBind11. | Creator  | ![stars](https://img.shields.io/github/stars/olivierbinette/StringCompare) |
 
 
 ### R Packages
 
-| Project | Description | Role |
-|----|-------------|---|
-| [MSETools](https://github.com/OlivierBinette/MSETools) | Code and analyses for the paper titled “On the Reliability of Multiple Systems Estimation for the Quantification of Modern Slavery” (Binette and Steorts, 2021). | Creator |
-| [FingermatchR](https://github.com/forensic-science/fingermatchR) | Fingerprint matching tools based on NIST's Biometric Image Software, on FingerJet minutiae extraction tool, and on the libfmr library. | Creator |
-| [cache](https://github.com/OlivierBinette/cache) | Lightweight caching for data science workflows.| Creator |
-| [assert](https://github.com/OlivierBinette/assert) | Lightweight assertions for data science workflows. | Creator |
-| [dgaFast/dga](https://github.com/olivierBinette/dgaFast) | Multiple Systems Estimation Using Decomposable Graphical Models. | Maintainer |
-| [TessTools](https://github.com/OlivierBinette/TessTools) | Tools for the use of Tesseract OCR in R and for the analysis of historical newspaper archives. | Creator |
+| Project | Description | Role | ⭐ |
+|----|-------------|---|---|
+| [MSETools](https://github.com/OlivierBinette/MSETools) | Code and analyses for the paper titled “On the Reliability of Multiple Systems Estimation for the Quantification of Modern Slavery” (Binette and Steorts, 2021). | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/MSETools) |
+| [FingermatchR](https://github.com/forensic-science/fingermatchR) | Fingerprint matching tools based on NIST's Biometric Image Software, on FingerJet minutiae extraction tool, and on the libfmr library. | Creator | ![stars](https://img.shields.io/github/stars/olivierbinette/StringCompare) |
+| [cache](https://github.com/OlivierBinette/cache) | Lightweight caching for data science workflows.| Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/cache) |
+| [assert](https://github.com/OlivierBinette/assert) | Lightweight assertions for data science workflows. | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/assert) |
+| [dgaFast/dga](https://github.com/olivierBinette/dgaFast) | Multiple Systems Estimation Using Decomposable Graphical Models. | Maintainer | ![stars](https://img.shields.io/github/stars/olivierBinette/dgaFast) |
+| [TessTools](https://github.com/OlivierBinette/TessTools) | Tools for the use of Tesseract OCR in R and for the analysis of historical newspaper archives. | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/TessTools) |
 
 
 ### Other Software
