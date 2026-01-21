@@ -23,7 +23,7 @@
 
 ## 🤓 Some stats
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OlivierBinette&rank_icon=percentile&include_all_commits=true&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
