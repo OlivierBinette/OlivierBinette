@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 
-<h3 align="center">PhD, Statistical Science, Duke University</h3>
+<!--<h3 align="center">PhD, Statistical Science, Duke University</h3>
 
 <h4 align="center">Currently ML Research Scientist at Upstart</h4>
-<h4 align="center">Previously Data Scientist at American Institutes for Research</h4>
+<h4 align="center">Previously Data Scientist at American Institutes for Research</h4>-->
 
 
 <h5 align="center">
-  <a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
+<!--  <a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
     <img align="center" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge">
-  </a> 
+  </a> -->
   <a href="https://www.linkedin.com/in/olivier-binette/">
       <img align="center" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
@@ -35,6 +35,7 @@
 
 | Project | Description | Role | ⭐ |
 |----|-------------|---|---|
+|[GroupTreeShap](https://github.com/OlivierBinette/GroupTreeShap)|  GroupSHAP variant of the TreeSHAP algorithm. | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/GroupTreeShap) |
 |[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Core Contributor | ![stars](https://img.shields.io/github/stars/PatentsView/PatentsView-Code-Examples) |
 | [Deepchecks' PerformanceBias](https://kagi.com/search?q=deepchecks+performance+bias) |  Contributed the `performance_bias` module to Deepchecks' open-source package. |  Contributor | ![stars](https://img.shields.io/github/stars/deepchecks/deepchecks) |
 | [Streamlit-Survey](https://github.com/Valires/streamlit-survey)  | Survey components for Streamlit apps. | Creator | ![stars](https://img.shields.io/github/stars/Valires/streamlit-survey) |
