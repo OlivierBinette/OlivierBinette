@@ -7,9 +7,9 @@
 
 
 <h5 align="center">
-<!--  <a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
+<a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
     <img align="center" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge">
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/olivier-binette/">
       <img align="center" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
@@ -21,6 +21,7 @@
   </a>
 </h5>
 
+<!--
 ## 🤓 Some stats
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette" />
@@ -28,6 +29,7 @@
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss,MDX,Clean&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
 </a>
+-->
 
 ## 🧑‍💻 Some of the software I've worked on
 
