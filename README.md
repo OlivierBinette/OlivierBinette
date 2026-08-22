@@ -54,10 +54,6 @@
 | [Earthquakes](https://olivierbinette.github.io/earthquakes/) | Visualize earthquakes on the globe. | Creator |
 | [lipsample](https://github.com/OlivierBinette/lipsample) | Sampling from arbitrary Lipschitz continuous densities on the interval in Matlab | Creator |
 
-## Some tools I use
-
-## Tools I Use
-
 ## Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
