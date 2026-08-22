@@ -2,6 +2,12 @@
 
 <h3 align="center">Computational Legal Scientist, <a href="https://law.duke.edu/lib/faculty/empirical">Duke Law Data Lab</a></h3>
 
+## Previously
+
+- Research Scientist (ML Fairness and Explainability), Upstart
+- Research Data Scientist, American Institutes for Research
+- Statistical Science Ph.D., Duke University
+
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/olivier-binette)
@@ -68,12 +74,14 @@
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?style=flat-square&logo=r&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIzLjUiIHI9IjIuNiIvPjxjaXJjbGUgY3g9IjUiIGN5PSIxMiIgcj0iMi42Ii8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSIxMiIgcj0iMi42Ii8%2BPGNpcmNsZSBjeD0iNSIgY3k9IjIwLjUiIHI9IjIuNiIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMjAuNSIgcj0iMi42Ii8%2BPHBhdGggZD0iTTExIDUuMkw2LjIgMTAuNGwxLjUgMS40IDQuOC01LjJ6TTEzIDUuMmwtMS41IDEuNCA0LjggNS4yIDEuNS0xLjR6TTQgMTQuNmgydjMuNEg0ek0xOCAxNC42aDJ2My40aC0yeiIvPjwvc3ZnPgo=)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTQgM2gxM3YyLjZMOS45IDEyIDE3IDE4LjRWMjFINHYtMi42aDguNkw2LjMgMTJsNi4zLTYuNEg0eiIvPjwvc3ZnPgo=)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FDF250?style=flat-square&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-1E1E1E?style=flat-square&logo=apachearrow&logoColor=white)
 ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -90,6 +98,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-5B4CF5?style=flat-square&logo=reflex&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
@@ -102,4 +111,5 @@
 ![pixi](https://img.shields.io/badge/Pixi-1E2F4A.svg?&style=flat-square&logo=probot&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-lightgreen.svg?style=flat-square&logo=pytest&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-0078d7.svg?style=flat-square&logo=vscode&logoColor=white)
