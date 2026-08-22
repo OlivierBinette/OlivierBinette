@@ -1,25 +1,12 @@
-<h1 align="center">Hi 👋, I'm Olivier</h1>
+<h1 align="center">Olivier Binette, Ph.D.</h1>
 
-<!--<h3 align="center">PhD, Statistical Science, Duke University</h3>
+<h3 align="center">Computational Legal Scientist, <a href="https://law.duke.edu/lib/faculty/empirical">Duke Law Data Lab</a></h3>
 
-<h4 align="center">Currently ML Research Scientist at Upstart</h4>
-<h4 align="center">Previously Data Scientist at American Institutes for Research</h4>-->
+## Links
 
-
-<h5 align="center">
-<a href="https://github.com/OlivierBinette?language=&page=1&q=&sort=stargazers&tab=repositories&type=public">
-    <img align="center" src="https://img.shields.io/badge/%E2%AD%90-Leave%20a%20star-brightgreen?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/olivier-binette/">
-      <img align="center" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  </a>
-  <a href="https://scholar.google.com/citations?user=c1jTnkUAAAAJ">
-      <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"> 
-  </a>
-  <a href="https://olivierbinette.ca/">
-      <img align="center" src="https://img.shields.io/badge/%F0%9F%93%A7-Let's%20chat!-orange?style=for-the-badge"> 
-  </a>
-</h5>
+- [LinkedIn](https://www.linkedin.com/in/olivier-binette)
+- [Google Scholar](https://scholar.google.com/citations?user=c1jTnkUAAAAJ)
+- [Personal Website](https://olivierbinette.ca)
 
 <!--
 ## 🤓 Some stats
@@ -31,11 +18,11 @@
 </a>
 -->
 
-## 🧑‍💻 Some of the software I've worked on
+## Personal Software Projects
 
 ### Python Packages
 
-| Project | Description | Role | ⭐ |
+| Project | Description | Role | Stars |
 |----|-------------|---|---|
 |[GroupTreeShap](https://github.com/OlivierBinette/GroupTreeShap)|  GroupSHAP variant of the TreeSHAP algorithm. | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/GroupTreeShap) |
 |[PatentsView-Code-Examples](https://github.com/PatentsView/PatentsView-Code-Examples)| Training resources for working with PatentsView APIs and Open Data. | Core Contributor | ![stars](https://img.shields.io/github/stars/PatentsView/PatentsView-Code-Examples) |
@@ -48,7 +35,7 @@
 
 ### R Packages
 
-| Project | Description | Role | ⭐ |
+| Project | Description | Role | Stars |
 |----|-------------|---|---|
 | [MSETools](https://github.com/OlivierBinette/MSETools) | Code and analyses for the paper titled “On the Reliability of Multiple Systems Estimation for the Quantification of Modern Slavery” (Binette and Steorts, 2021). | Creator | ![stars](https://img.shields.io/github/stars/OlivierBinette/MSETools) |
 | [FingermatchR](https://github.com/forensic-science/fingermatchR) | Fingerprint matching tools based on NIST's Biometric Image Software, on FingerJet minutiae extraction tool, and on the libfmr library. | Creator | ![stars](https://img.shields.io/github/stars/olivierbinette/StringCompare) |
@@ -67,7 +54,7 @@
 | [Earthquakes](https://olivierbinette.github.io/earthquakes/) | Visualize earthquakes on the globe. | Creator |
 | [lipsample](https://github.com/OlivierBinette/lipsample) | Sampling from arbitrary Lipschitz continuous densities on the interval in Matlab | Creator |
 
-## 🧰 Some tools I use
+## Some tools I use
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
