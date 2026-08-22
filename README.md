@@ -56,10 +56,9 @@
 
 | Project | Description | Role |
 |----|-------------|---|
-| [Fractals](https://olivierbinette.github.io/Fractals/) | A Javascript Mendelbrot set visualization app, built using early browser multithreading technologies (2014). | Creator |
+| [Fractals](https://olivierbinette.github.io/Fractals/) | A Javascript Mandelbrot set visualization app, built using early browser multithreading technologies (2014). | Creator |
 | [Welcome to the Moon App](https://github.com/OlivierBinette/welcome-to-the-moon-card-flipper) | Companion app to the wonderful *Welcome to the Moon* board game. | Creator |
 | [Earthquakes](https://olivierbinette.github.io/earthquakes/) | Visualize earthquakes on the globe. | Creator |
-| [lipsample](https://github.com/OlivierBinette/lipsample) | Sampling from arbitrary Lipschitz continuous densities on the interval in Matlab | Creator |
 
 ## Tools I Use
 
