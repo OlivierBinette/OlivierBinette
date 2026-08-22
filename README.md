@@ -15,15 +15,15 @@
 - [Google Scholar](https://scholar.google.com/citations?user=c1jTnkUAAAAJ)
 - [Personal Website](https://olivierbinette.ca)
 
-<!--
-## 🤓 Some stats
+
+## Some Stats
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olivierbinette" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierBinette&hide=html,jupyter%20notebook,javascript,tex,css,dm,scss,MDX,Clean&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
 </a>
--->
+
 
 ## Personal Software Projects
 
@@ -114,3 +114,20 @@
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-0078d7.svg?style=flat-square&logo=vscode&logoColor=white)
+
+
+
+
+## Data sources I use
+[![CourtListener](https://img.shields.io/badge/CourtListener-2563eb?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iMTEiIHk9IjMiIHdpZHRoPSIyIiBoZWlnaHQ9IjE3Ii8%2BPHJlY3QgeD0iNCIgeT0iMjAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIyIi8%2BPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjIiLz48cGF0aCBkPSJNNiA3IDIgMTRoOHpNMTggN2wtNCA3aDh6Ii8%2BPC9zdmc%2B)](https://www.courtlistener.com) 
+[![SCALES-OKN](https://img.shields.io/badge/SCALES--OKN-4338ca?style=flat-square)](https://scales-okn.org) 
+[![Habeas Dockets](https://img.shields.io/badge/Habeas_Dockets-9d174d?style=flat-square)](https://habeasdockets.org/) 
+[![Caselaw Access Project](https://img.shields.io/badge/Caselaw_Access_Project-7c3aed?style=flat-square)](https://case.law) 
+[![Oyez](https://img.shields.io/badge/Oyez-991b1b?style=flat-square)](https://www.oyez.org)
+[![TRAC](https://img.shields.io/badge/TRAC-c2410c?style=flat-square)](https://tracreports.org) 
+[![BJS](https://img.shields.io/badge/BJS-0f766e?style=flat-square)](https://bjs.ojp.gov)
+[![SEC EDGAR](https://img.shields.io/badge/SEC_EDGAR-0f4c81?style=flat-square)](https://www.sec.gov/edgar) 
+[![OpenCorporates](https://img.shields.io/badge/OpenCorporates-f97316?style=flat-square)](https://opencorporates.com)
+[![Census Bureau](https://img.shields.io/badge/Census_Bureau-164e63?style=flat-square)](https://data.census.gov) 
+[![IPUMS](https://img.shields.io/badge/IPUMS-9a3412?style=flat-square)](https://ipums.org) 
+[![Data.gov](https://img.shields.io/badge/Data.gov-1e6091?style=flat-square)](https://data.gov)
