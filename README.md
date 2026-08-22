@@ -7,6 +7,7 @@
 - Research Scientist (ML Fairness and Explainability), Upstart
 - Research Data Scientist, American Institutes for Research
 - Statistical Science Ph.D., Duke University
+- Mathematics M.Sc. and B.Sc., Université du Québec à Montréal
 
 ## Links
 
